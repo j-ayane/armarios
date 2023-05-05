@@ -24,10 +24,36 @@ nav ul li:hover {
     background-color: rgb(204, 204, 204);
 }
 
+hr {
+    margin-bottom: 30px;
+}
 
-.armarios {
+section {
+    margin-left: 16px;
+    margin-bottom: 16px;
+    padding: 16px;
+}
+
+.bloco {
     margin: 0 auto;
-    background-color: #778899;
-    width: 80%;
+    width: 85%;
     display: flex;
+}
+
+.armarios img {
+    width: 100%;
+}
+
+#b1 {
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+#azul{
+    list-style-type: "\1F7E6";
+}
+#lilas {
+    list-style-type: "\1F7EA";
+}
+#amar {
+    list-style-type: "\1F7E8";
 }
