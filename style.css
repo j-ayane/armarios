@@ -6,7 +6,9 @@
 header {
     padding: 16px;
     position: sticky;
-    top: 0
+    top: 0;
+    background-color: white;
+    border-bottom: 1px solid black;
 }
 
 nav ul li{
@@ -24,9 +26,6 @@ nav ul li:hover {
     background-color: rgb(204, 204, 204);
 }
 
-hr {
-    margin-bottom: 30px;
-}
 
 section {
     margin-left: 16px;
@@ -40,8 +39,9 @@ section {
     display: flex;
 }
 
-.armarios img {
-    width: 100%;
+.armario {
+    width: 200px;
+    height: 500px;
 }
 
 #b1 {
@@ -56,4 +56,10 @@ section {
 }
 #amar {
     list-style-type: "\1F7E8";
+}
+
+#b101{
+    background-image: url(imgs/armario-manutencao.png);
+    background-repeat:no-repeat;
+    background-size: contain;
 }
