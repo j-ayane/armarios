@@ -41,6 +41,7 @@ section {
 }
 
 .armario {
+    margin: 0 auto;
     width: 150px;
     height: 250px;
 }
@@ -306,6 +307,131 @@ section {
     background-size: contain;
 }
 #b224{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+
+
+/* 
+-- Bloco 3 
+*/
+#b301{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b302{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b303{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b304{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b305{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b306{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b307{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b308{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b309{
+    background-image: url(imgs/armario-manutencao.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b310{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b311{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b312{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b313{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b314{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b315{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b316{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b317{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b318{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b319{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b320{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b321{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b322{
+    background-image: url(imgs/armario-livre.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b323{
+    background-image: url(imgs/armario-ocupado.png);
+    background-repeat:no-repeat;
+    background-size: contain;
+}
+#b324{
     background-image: url(imgs/armario-ocupado.png);
     background-repeat:no-repeat;
     background-size: contain;
