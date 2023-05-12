@@ -67,7 +67,7 @@ section {
 -- Bloco 1 --
 */
 #b101{
-    background-image: url(imgs/armario-manutencao.png);
+    background-image: url(imgs/armario-livre.png);
     background-repeat:no-repeat;
     background-size: contain;
 }
