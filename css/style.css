@@ -26,15 +26,28 @@ nav ul li:hover {
     background-color: rgb(204, 204, 204);
 }
 
-
 section {
     margin-left: 16px;
     margin-bottom: 16px;
     padding: 16px;
 }
 
+div button{
+    width: 100%;
+    height: 30px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-weight: 600;
+    border: 1px solid black;
+}
+div button:hover {
+    background-color: rgb(57, 57, 57);
+    color: white;
+}
+
 .bloco {
     margin: 0 auto;
+    margin-bottom: 5px;
     width: 85%;
     display: flex;
     column-gap: 10px;
@@ -42,8 +55,8 @@ section {
 
 .armario {
     margin: 0 auto;
-    width: 150px;
-    height: 250px;
+    width: 140px;
+    height: 200px;
 }
 
 #b1 {
@@ -67,124 +80,123 @@ section {
 -- Bloco 1 --
 */
 #b101{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
 }
 #b102{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b103{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b104{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b105{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b106{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b107{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b108{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b109{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b110{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-manutencao.png);
+    background-image: url(/imgs/armario-manutencao.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b111{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b112{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-manutencao.png);
+    background-image: url(/imgs/armario-manutencao.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b113{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b114{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b115{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b116{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b117{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b118{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b119{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b120{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b121{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b122{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b123{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b124{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 
 /*
@@ -192,124 +204,124 @@ section {
 */
 
 #b201{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b202{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b203{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b204{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b205{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b206{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b207{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b208{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-manutencao.png);
+    background-image: url(/imgs/armario-manutencao.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b209{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b210{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b211{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b212{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b213{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b214{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-manutencao.png);
+    background-image: url(/imgs/armario-manutencao.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b215{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b216{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b217{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b218{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b219{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b220{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-manutencao.png);
+    background-image: url(/imgs/armario-manutencao.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b221{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b222{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b223{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b224{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 
 
@@ -317,122 +329,122 @@ section {
 -- Bloco 3 
 */
 #b301{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b302{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b303{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b304{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b305{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b306{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b307{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b308{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b309{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-manutencao.png);
+    background-image: url(/imgs/armario-manutencao.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b310{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b311{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b312{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b313{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b314{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b315{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b316{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b317{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b318{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b319{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b320{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b321{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b322{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-livre.png);
+    background-image: url(/imgs/armario-livre.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b323{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
 #b324{
-    background-image: url(https://raw.githubusercontent.com/j-ayane/teste/main/imgs/armario-ocupado.png);
+    background-image: url(/imgs/armario-ocupado.png);
     background-repeat:no-repeat;
-    background-size: contain;
+
 }
