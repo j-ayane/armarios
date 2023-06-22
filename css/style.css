@@ -80,11 +80,11 @@ div button:hover {
 -- Bloco 1 --
 */
 #b101{
-    background-image: url("../"../imgs/armario-livre.png"");
+    background-image: url("../imgs/armario-livre.png");
     background-repeat:no-repeat;
 }
 #b102{
-    background-image: url("../"../imgs/armario-ocupado.png"");
+    background-image: url("../imgs/armario-ocupado.png");
     background-repeat:no-repeat;
 
 }
