@@ -4,6 +4,7 @@ function alterarEstado(id, status, btnId){
     const ocupado = "url(imgs/armario-ocupado.png)"
     const manut = "url(imgs/armario-manutencao.png)"
 
+    //checagem
     if(status == "livre") {
         status = "ocupado"
         document.getElementById(btnId).value = status
